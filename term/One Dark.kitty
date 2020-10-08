@@ -2,9 +2,26 @@
 cursor                   #abb2bf
 cursor_text_color        #5c6370
 
+# URL
+url_color #61afef
+
+# Border
+active_border_color #1A1B20
+inactive_border_color #1A1B20
+bell_border_color #e06c75
+
+# Tabs
+active_tab_foreground   #1c2021
+active_tab_background   #abb2bf
+active_tab_font_style   regular
+inactive_tab_foreground #abb2bf
+inactive_tab_background #3E4452
+inactive_tab_font_style normal
+
+
 # Special
 foreground               #abb2bf
-background               #282c34
+background               #1c2021
 selection_foreground     #5c6370
 selection_background     #abb2bf
 
